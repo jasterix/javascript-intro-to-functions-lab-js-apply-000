@@ -11,8 +11,10 @@ function logShout(string) {
 }
 
 function sayHiToGrandma(string) {
-  if string.toLowerCase=== lowercase: 
+  if(string.toLowerCase=== lowercase) {
     return "I can't hear you!"
+  }
+    
 }
 describe('logShout(string)', function() {
   it('calls console.log() its one argument in all caps', function() {
