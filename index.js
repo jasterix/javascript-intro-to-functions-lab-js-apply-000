@@ -12,7 +12,7 @@ function logShout(string) {
 
 
 function logShout(string) {
-  console.log(logShout)
+  console.log(string.toUpperCase())
 }
 
 function sayHiToGrandma(string) {
