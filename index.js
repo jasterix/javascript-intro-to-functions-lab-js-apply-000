@@ -10,6 +10,10 @@ function logShout(string) {
   console.log(logShout)
 }
 
+function sayHiToGrandma(string) {
+  if string.toLowerCase=== lowercase: 
+    return "I can't hear you!"
+}
 describe('logShout(string)', function() {
   it('calls console.log() its one argument in all caps', function() {
     const spy = expect.spyOn(console, 'log').andCallThrough()
