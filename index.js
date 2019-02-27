@@ -7,7 +7,7 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  
+  spy = 
 }
 
 describe('logShout(string)', function() {
